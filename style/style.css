@@ -116,37 +116,12 @@ ol li
   padding: 4px 0 0 0;
   color: #FFF;}
 
-#menubar
-{ width: 898px;
-  height: 52px;
-  padding: 0;
-  background: #000;} 
-
-ul#menu, ul#menu li
-{ float: left;
-  margin: 0; 
-  padding: 0;}
-
-ul#menu li
-{ list-style: none;}
-
-ul#menu li a
-{ letter-spacing: 0.1em;
-  font: normal 100% arial, sans-serif;
-  display: block; 
-  float: left; 
-  height: 17px;
-  margin: 10px 0 0 10px;
-  padding: 9px 26px 6px 26px;
-  text-align: center;
-  color: #FFF;
-  text-transform: uppercase;
-  text-decoration: none;
-  background: transparent;} 
-
-ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
-{ color: #FFF;
-  background: transparent url(transparent_light.png) repeat;}
+#small_logo
+{ 
+	max-width: 40%;
+	top: 10%;
+	left: 10%;
+}
 
 #site_content
 { width: 854px;
